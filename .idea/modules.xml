@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dazhongdianping/dazhongdianping.iml" filepath="$PROJECT_DIR$/dazhongdianping/dazhongdianping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freezufang/freezufang.iml" filepath="$PROJECT_DIR$/freezufang/freezufang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerIndicator_library/viewpagerIndicator_library.iml" filepath="$PROJECT_DIR$/viewpagerIndicator_library/viewpagerIndicator_library.iml" />
+    </modules>
+  </component>
+</project>

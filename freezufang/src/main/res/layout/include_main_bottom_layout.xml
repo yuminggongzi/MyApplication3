@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RadioGroup
+        android:background="@mipmap/blue_btn_on"
+        android:id="@+id/radioGroup_Bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <RadioButton
+            android:id="@+id/radiobutton_index"
+            style="@style/bottom_style"
+            android:drawableTop="@mipmap/shouye"
+            />
+        <RadioButton
+            android:id="@+id/radiobutton_fabu"
+            style="@style/bottom_style"
+            android:checked="true"
+            android:drawableTop="@mipmap/fujin"
+            />
+        <RadioButton
+            android:id="@+id/radiobutton_fujin"
+            style="@style/bottom_style"
+            android:drawableTop="@mipmap/fabu"
+            />
+        <RadioButton
+            android:id="@+id/radiobutton_wode"
+            style="@style/bottom_style"
+            android:drawableTop="@mipmap/wode"
+            />
+    </RadioGroup>
+</LinearLayout>
